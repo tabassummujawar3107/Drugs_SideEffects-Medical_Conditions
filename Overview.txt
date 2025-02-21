@@ -1,0 +1,5 @@
+Sample Data – Displays drug names, conditions, and links for more details.
+Missing Data – Many missing values in side effects, brand names, and ratings.
+Numeric Summary – Average rating is 3.69/10, with most drugs having few reviews.
+Drug Count per Condition – Some conditions have multiple drug options (e.g., Acne, ADHD).
+Side Effects – Common issues include allergic reactions, skin irritation, and high blood pressure.
